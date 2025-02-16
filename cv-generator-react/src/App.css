@@ -1,3 +1,5 @@
 #root {
-  /* da root */
+  display: flex;
+  justify-content: center;
+  /* border: 1px solid red; */
 }
