@@ -1,0 +1,13 @@
+/* for Education */
+.primary {
+    display: flex;
+}
+
+.column-one {
+    flex: 4;
+}
+
+.column-two {
+    text-align: end;
+    flex: 2;
+}

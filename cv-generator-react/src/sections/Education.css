@@ -1,0 +1,27 @@
+#education {
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.primary {
+    display: flex;
+}
+
+.column-one {
+    flex: 4;
+}
+
+.column-two {
+    flex: 2;
+}
+
+#heading-education {
+    font-size: 15px;
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+}

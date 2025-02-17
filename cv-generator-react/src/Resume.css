@@ -1,20 +1,13 @@
 #Resume {
-    height: 1000px;
-    width: 650px;
+    /* Simulate Short Bond Paper */
+    height: 1056px;
+    width: 816px;
+
+    /* For easy visualization */
     border: 1px solid black;
+
+    /* Formatting */
     display: flex;
     flex-direction: column;
-}
-
-/* for Personal */
-.primary {
-    display: flex;
-}
-
-.column-one {
-    flex: 4;
-}
-
-.column-two {
-    flex: 1;
+    padding: 30px;
 }
